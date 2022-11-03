@@ -71,5 +71,9 @@ Given that test scores on average have been falling and with SAT/ACT scores nega
 
 Nevertheless, for this exercise, we assume that a prospective student will end up being an average one. A prospective student also has limited time and resources and should pick an admissions test to focus on (although both have similar topics). We present the optimal state and admissions test to consider.
 
-<img src="https://github.com/eugenekhoo1/project_1/blob/90ce956c8e0e3f11a9d88ed181e37c45a76e7ee2/images/school_qualification_count.png">
+<img src="https://github.com/eugenekhoo1/project_1/blob/bec43865fed0406c47d87c188a3d2c846bfe7e3b/images/school_qualification_count1.png">
 
+The School Qualification Count measures the number of admission thresholds (at 25th percentile) that the average student is able to meet. For example, the average student taking the SAT in Wisconsin would have met the 25th percentile threshold of 332 schools. We also observe that for the top 10 states, the average students taking the SATs have a higher school qualification count than if they took the ACT. This could be a contributing factor to the increasing SAT participation rates and declining ACT participation rates.
+
+The recommendation would be to study for the __SAT__ in one of the following states:
+<br> __['Wisconsin', 'Minnesota', 'South Dakota', 'North Dakota', 'Nebraska','Iowa', 'Kansas', 'Missouri', 'Utah', 'Mississippi']__
