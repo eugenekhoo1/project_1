@@ -51,15 +51,16 @@ These datasets are then cleaned and merged to conduct cross-sectional and time s
 ## Analysis
 
 At a high level, the average participation rates across all states has increased for SAT and decreased for ACT. 
-Test scores on average have fallen over the 3 years despite varying 
+Test scores on average have fallen over the 3 years.
 
 <img src="https://github.com/eugenekhoo1/project_1/blob/90ce956c8e0e3f11a9d88ed181e37c45a76e7ee2/images/year_on_year_summary.png">
 
-SAT and ACT test scores are negatively correlated. 
+SAT and ACT test scores are negatively correlated. Taking both tests results in one underperforming
 
 <img src="https://github.com/eugenekhoo1/project_1/blob/90ce956c8e0e3f11a9d88ed181e37c45a76e7ee2/images/test_score_correlation_matrix.png">
 
 Both SAT and ACT scores and participation rates are negatively correlated. (2019 data)
+Likely a case of high participation rates diluting quality of test scores.
 
 <img src="https://github.com/eugenekhoo1/project_1/blob/90ce956c8e0e3f11a9d88ed181e37c45a76e7ee2/images/sat_scores_vs_participation.png">
 
