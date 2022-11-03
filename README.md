@@ -11,7 +11,7 @@ The SAT has two sections of the test: Evidence-Based Reading and Writing and Mat
 
 Standardized tests have long been a controversial topic for students, administrators, and legislators. Since the 1940's, an increasing number of colleges have been using scores from sudents' performances on tests like the SAT and the ACT as a measure for college readiness and aptitude ([*source*](https://www.minotdailynews.com/news/local-news/2017/04/a-brief-history-of-the-sat-and-act/)). Supporters of these tests argue that these scores can be used as an objective measure to determine college admittance. Opponents of these tests claim that these tests are not accurate measures of students potential or ability and serve as an inequitable barrier to entry. Lately, more and more schools are opting to drop the SAT/ACT requirement for their Fall 2021 applications ([*read more about this here*](https://www.cnn.com/2020/04/14/us/coronavirus-colleges-sat-act-test-trnd/index.html)).
 
-Still, pre tertiary admission tests are a signal of a prospective student's intellectual capacity and are necessary given the scarcity of placements in top universities. Test scores (of all types including university grades) act as signals to employers as well.
+Still, pre-tertiary admission tests are a signal of a prospective student's intellectual capacity and are necessary given the scarcity of placements in top universities. Test scores (of all types including university grades) act as signals to employers as well.
 
 ## Datasets
 
