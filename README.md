@@ -76,4 +76,4 @@ Nevertheless, for this exercise, we assume that a prospective student will end u
 The School Qualification Count measures the number of admission thresholds (at 25th percentile) that the average student is able to meet. For example, the average student taking the SAT in Wisconsin would have met the 25th percentile threshold of 332 schools. We also observe that for the top 10 states, the average students taking the SATs have a higher school qualification count than if they took the ACT. This could be a contributing factor to the increasing SAT participation rates and declining ACT participation rates.
 
 The recommendation would be to study for the __SAT__ in one of the following states:
-<br> __['Wisconsin', 'Minnesota', 'South Dakota', 'North Dakota', 'Nebraska','Iowa', 'Kansas', 'Missouri', 'Utah', 'Mississippi']__
+<br> __['Wisconsin', 'Minnesota', 'South Dakota', 'North Dakota', 'Nebraska', 'Iowa', 'Kansas', 'Missouri', 'Utah', 'Mississippi']__
